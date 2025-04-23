@@ -1,0 +1,6 @@
+
+# pixi environments
+.pixi
+*.egg-info
+val2017/*.jpg
+000000032735.jpg

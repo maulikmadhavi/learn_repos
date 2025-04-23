@@ -1,0 +1,1802 @@
+[
+  {
+    "request_id": 19,
+    "status": "success",
+    "elapsed_time": 2.337675094604492,
+    "time_to_first_token": 0.24707317352294922,
+    "caption": "describe the image of two men in uniform, one wearing a hat and the other wearing a hat and holding a knife",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000559547.jpg"
+  },
+  {
+    "request_id": 11,
+    "status": "success",
+    "elapsed_time": 2.6283605098724365,
+    "time_to_first_token": 0.0285036563873291,
+    "caption": "describe the image in the picture below the kite is a kite that is flying in the sky above the beach and the ocean",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000199395.jpg"
+  },
+  {
+    "request_id": 47,
+    "status": "success",
+    "elapsed_time": 2.717787027359009,
+    "time_to_first_token": 0.0298464298248291,
+    "caption": "describe the image of a cat on the bed with a remote control device in its paws, and a cat sitting on the bed",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000476810.jpg"
+  },
+  {
+    "request_id": 50,
+    "status": "success",
+    "elapsed_time": 3.2346854209899902,
+    "time_to_first_token": 0.02784872055053711,
+    "caption": "describe the image in the picture below the stop sign and the building in the background is a building with a lot of windows",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000309173.jpg"
+  },
+  {
+    "request_id": 34,
+    "status": "success",
+    "elapsed_time": 3.310551404953003,
+    "time_to_first_token": 0.026535749435424805,
+    "caption": "describe the image of a child using a laptop computer on the bed in the room of a house or home, with a red chair",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000358525.jpg"
+  },
+  {
+    "request_id": 20,
+    "status": "success",
+    "elapsed_time": 3.8903956413269043,
+    "time_to_first_token": 0.026632070541381836,
+    "caption": "describe the image in the picture below the plane is a plane that is flying in the sky and is blue and white",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000504000.jpg"
+  },
+  {
+    "request_id": 51,
+    "status": "success",
+    "elapsed_time": 3.742493152618408,
+    "time_to_first_token": 0.026904582977294922,
+    "caption": "describe the image of a kitchen with a plant in the corner of the kitchen area, and a white stove and a white refrigerator",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000522007.jpg"
+  },
+  {
+    "request_id": 52,
+    "status": "success",
+    "elapsed_time": 4.333030700683594,
+    "time_to_first_token": 0.028057575225830078,
+    "caption": "describe the image of a tennis player in action on the court with a tennis ball in his hand and a tennis ball in his hand",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000170474.jpg"
+  },
+  {
+    "request_id": 12,
+    "status": "success",
+    "elapsed_time": 4.5209033489227295,
+    "time_to_first_token": 0.036557912826538086,
+    "caption": "describe the image of a little girl playing soccer with a ball in the grass of a park, with a blue line on the side of the",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000257624.jpg"
+  },
+  {
+    "request_id": 53,
+    "status": "success",
+    "elapsed_time": 5.12573766708374,
+    "time_to_first_token": 0.02748560905456543,
+    "caption": "describe the image in the picture below the player ' s name and the number on the field of the pitcher is in the picture",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000197658.jpg"
+  },
+  {
+    "request_id": 48,
+    "status": "success",
+    "elapsed_time": 5.1492228507995605,
+    "time_to_first_token": 0.02653050422668457,
+    "caption": "describe the image in the background of the tennis player ' s picture, and the player ' s name is on the screen",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000522889.jpg"
+  },
+  {
+    "request_id": 54,
+    "status": "success",
+    "elapsed_time": 5.121624946594238,
+    "time_to_first_token": 0.02793288230895996,
+    "caption": "describe the image in the picture below the horse ' s name and the name of the horse is the horse is white",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000382088.jpg"
+  },
+  {
+    "request_id": 35,
+    "status": "success",
+    "elapsed_time": 6.083815574645996,
+    "time_to_first_token": 0.030109167098999023,
+    "caption": "describe the image in the picture below the skateboarder ' s name and the person in the picture below the skateboarder ' s name",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000492362.jpg"
+  },
+  {
+    "request_id": 55,
+    "status": "success",
+    "elapsed_time": 5.988973617553711,
+    "time_to_first_token": 0.030176639556884766,
+    "caption": "describe the image in the picture below the picture, the picture is taken from the dock at the marina in the picture is taken from the dock",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000133233.jpg"
+  },
+  {
+    "request_id": 56,
+    "status": "success",
+    "elapsed_time": 5.984684228897095,
+    "time_to_first_token": 0.028742074966430664,
+    "caption": "describe the image on the phone screen and the text on the screen is in the hand of the person who is holding the phone",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000332570.jpg"
+  },
+  {
+    "request_id": 21,
+    "status": "success",
+    "elapsed_time": 6.700655221939087,
+    "time_to_first_token": 0.027399063110351562,
+    "caption": "describe the image in the picture below the skateboarder ' s name, and the skateboarder ' s name",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000396200.jpg"
+  },
+  {
+    "request_id": 58,
+    "status": "success",
+    "elapsed_time": 6.524545669555664,
+    "time_to_first_token": 0.028355836868286133,
+    "caption": "describe the image of a canoe on the lake taken with ins instagrams instagrams instagrams instagrams ins ins ins ins",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000186873.jpg"
+  },
+  {
+    "request_id": 59,
+    "status": "success",
+    "elapsed_time": 7.868607759475708,
+    "time_to_first_token": 0.029053926467895508,
+    "caption": "describe the image in the picture below the woman ' s picture, or the woman ' s picture, of a motorcycle",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000394199.jpg"
+  },
+  {
+    "request_id": 57,
+    "status": "success",
+    "elapsed_time": 7.8780810832977295,
+    "time_to_first_token": 0.02731919288635254,
+    "caption": "describe the image in the picture to be captivated by the horse ' s name and the color of the horse ' s coat",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000304291.jpg"
+  },
+  {
+    "request_id": 60,
+    "status": "success",
+    "elapsed_time": 7.864560604095459,
+    "time_to_first_token": 0.027631759643554688,
+    "caption": "describe the image of a woman in a red dress and a cake on a table with a knife in her hand and a red wall behind her",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000158956.jpg"
+  },
+  {
+    "request_id": 61,
+    "status": "success",
+    "elapsed_time": 7.859987020492554,
+    "time_to_first_token": 0.026613473892211914,
+    "caption": "describe the image of a gi gi gi gi gi gi gi gi gi gi gi gi gi gi gi gi gi gi gi gi gi gi gi",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000448448.jpg"
+  },
+  {
+    "request_id": 13,
+    "status": "success",
+    "elapsed_time": 8.085334300994873,
+    "time_to_first_token": 0.03179192543029785,
+    "caption": "describe the image of a train on the tracks and the train is orange and white with a black stripe on the side",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000477623.jpg"
+  },
+  {
+    "request_id": 62,
+    "status": "success",
+    "elapsed_time": 9.383399486541748,
+    "time_to_first_token": 0.028957366943359375,
+    "caption": "describe the image is in a photo editor ' s book, and the image is in a photo editor ' s book",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000471991.jpg"
+  },
+  {
+    "request_id": 49,
+    "status": "success",
+    "elapsed_time": 9.442571878433228,
+    "time_to_first_token": 0.0286409854888916,
+    "caption": "describe the image of a gifefe gifefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefafafafafafafafafafafafafafa",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000157098.jpg"
+  },
+  {
+    "request_id": 63,
+    "status": "success",
+    "elapsed_time": 9.375941038131714,
+    "time_to_first_token": 0.026257753372192383,
+    "caption": "describe the image in black and white or color, it is a black and white photo of cows grazing in a field",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000224093.jpg"
+  },
+  {
+    "request_id": 22,
+    "status": "success",
+    "elapsed_time": 10.978804349899292,
+    "time_to_first_token": 0.027306318283081055,
+    "caption": "describe the image of a fighter jet flying in the sky, with a red light in the fore of the jet,",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000392481.jpg"
+  },
+  {
+    "request_id": 36,
+    "status": "success",
+    "elapsed_time": 10.911680698394775,
+    "time_to_first_token": 0.035928964614868164,
+    "caption": "describe the image in the picture below the sheep is a sheep, and the sheep is a sheep, and the sheep is a sheep",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000321887.jpg"
+  },
+  {
+    "request_id": 65,
+    "status": "success",
+    "elapsed_time": 10.76387095451355,
+    "time_to_first_token": 0.037682533264160156,
+    "caption": "describe the image in the picture below the shadow of a person on a bike, and the shadow of a person on a bike",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000210299.jpg"
+  },
+  {
+    "request_id": 64,
+    "status": "success",
+    "elapsed_time": 10.777730226516724,
+    "time_to_first_token": 0.027464628219604492,
+    "caption": "describe the image of a man in a suit and tie standing in the grass outside of a house with a dog in the yard",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000354547.jpg"
+  },
+  {
+    "request_id": 66,
+    "status": "success",
+    "elapsed_time": 10.757404804229736,
+    "time_to_first_token": 0.026982784271240234,
+    "caption": "describe the image of a group of people outside a house with a flag on the roof and a bike parked in front",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000507037.jpg"
+  },
+  {
+    "request_id": 67,
+    "status": "success",
+    "elapsed_time": 12.115365743637085,
+    "time_to_first_token": 0.028881072998046875,
+    "caption": "describe the image in the picture below the skateboarder ' s shadow, and the shadow of the skateboarder",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000538458.jpg"
+  },
+  {
+    "request_id": 68,
+    "status": "success",
+    "elapsed_time": 12.105394840240479,
+    "time_to_first_token": 0.02685093879699707,
+    "caption": "describe the image on the phone screen and the text on the screen is a message from the phone screen, and the text is a message from",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000499266.jpg"
+  },
+  {
+    "request_id": 69,
+    "status": "success",
+    "elapsed_time": 12.098762512207031,
+    "time_to_first_token": 0.03245115280151367,
+    "caption": "describe the image in the picture to be captivated by the person on the scr scr scr scr scr scr sc",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000139099.jpg"
+  },
+  {
+    "request_id": 70,
+    "status": "success",
+    "elapsed_time": 12.092851400375366,
+    "time_to_first_token": 0.027304887771606445,
+    "caption": "describe the image on the computer screen and the cat is watching the video on the screen and the cat is watching the video on the screen",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000403817.jpg"
+  },
+  {
+    "request_id": 71,
+    "status": "success",
+    "elapsed_time": 12.083329200744629,
+    "time_to_first_token": 0.026496410369873047,
+    "caption": "describe the image in the picture below the dog is a dog on a boat in the picture is a dog on a boat",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000190140.jpg"
+  },
+  {
+    "request_id": 72,
+    "status": "success",
+    "elapsed_time": 12.901671171188354,
+    "time_to_first_token": 0.028092622756958008,
+    "caption": "describe the image of a pizza with a pizza cutter and a pizza cutter with a pizza cutter and a pizza cutter with a pizza cutter",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000116208.jpg"
+  },
+  {
+    "request_id": 73,
+    "status": "success",
+    "elapsed_time": 12.89544153213501,
+    "time_to_first_token": 0.026947498321533203,
+    "caption": "describe the image of a lady bug and a lady bug in a picture of a lady bug and a lady bug in a picture of a lady",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000224675.jpg"
+  },
+  {
+    "request_id": 1,
+    "status": "success",
+    "elapsed_time": 13.270870208740234,
+    "time_to_first_token": 0.027096986770629883,
+    "caption": "describe the image of a skate park with a skateboarder doing a trick on a skateboarder in the background",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000451084.jpg"
+  },
+  {
+    "request_id": 75,
+    "status": "success",
+    "elapsed_time": 14.80300784111023,
+    "time_to_first_token": 0.02841329574584961,
+    "caption": "describe the image of elephants in the picture of elephants in the picture of elephants in the picture of elephants in the picture of elephants in the picture",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000108864.jpg"
+  },
+  {
+    "request_id": 76,
+    "status": "success",
+    "elapsed_time": 14.793466567993164,
+    "time_to_first_token": 0.043879032135009766,
+    "caption": "describe the image of a sandwich with a sandwich in it and a cup of coffee in the background with a green table",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000479732.jpg"
+  },
+  {
+    "request_id": 74,
+    "status": "success",
+    "elapsed_time": 14.815103769302368,
+    "time_to_first_token": 0.026859283447265625,
+    "caption": "describe the image in the picture below the umbrella and the girl is standing in front of the train car with her umbrella",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000250127.jpg"
+  },
+  {
+    "request_id": 37,
+    "status": "success",
+    "elapsed_time": 15.02320909500122,
+    "time_to_first_token": 0.03410649299621582,
+    "caption": "describe the image is in color white and black and the image is in color red and white and the image is in color white",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000377486.jpg"
+  },
+  {
+    "request_id": 77,
+    "status": "success",
+    "elapsed_time": 14.78629732131958,
+    "time_to_first_token": 0.03701472282409668,
+    "caption": "describe the image in the picture below the bus is a bus stop, and a bus stop is a bus stop, and a bus stop",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000334371.jpg"
+  },
+  {
+    "request_id": 78,
+    "status": "success",
+    "elapsed_time": 14.779186725616455,
+    "time_to_first_token": 0.02732062339782715,
+    "caption": "describe the image of a house with a porch and a porch with columns and a door with a window and a window",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000464689.jpg"
+  },
+  {
+    "request_id": 79,
+    "status": "success",
+    "elapsed_time": 14.772599458694458,
+    "time_to_first_token": 0.02761220932006836,
+    "caption": "describe the image of a pizza with french fries and a beer bottle on the table with a plate of fries and a bottle of beer",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000511453.jpg"
+  },
+  {
+    "request_id": 80,
+    "status": "success",
+    "elapsed_time": 16.136317253112793,
+    "time_to_first_token": 0.02736377716064453,
+    "caption": "describe the image of a surfer riding a wave in the ocean, or the wave that is about to break into the water",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000183127.jpg"
+  },
+  {
+    "request_id": 82,
+    "status": "success",
+    "elapsed_time": 16.12427854537964,
+    "time_to_first_token": 0.028198719024658203,
+    "caption": "describe the image in black and white or color, it is a black and white photo, and it is a black and white photo",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000130465.jpg"
+  },
+  {
+    "request_id": 83,
+    "status": "success",
+    "elapsed_time": 16.119351863861084,
+    "time_to_first_token": 0.029568910598754883,
+    "caption": "describe the image of a man in a red shirt and a woman in a red shirt sitting at a bar with a bottle of wine",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000180751.jpg"
+  },
+  {
+    "request_id": 23,
+    "status": "success",
+    "elapsed_time": 16.4553964138031,
+    "time_to_first_token": 0.038259029388427734,
+    "caption": "describe the image in the picture to be captivated by the horse riders on the beach, and the water is clear",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000547886.jpg"
+  },
+  {
+    "request_id": 84,
+    "status": "success",
+    "elapsed_time": 16.114756107330322,
+    "time_to_first_token": 0.02753162384033203,
+    "caption": "describe the image in the picture below the woman is talking to the man in the picture below the woman is talking to the man",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000323263.jpg"
+  },
+  {
+    "request_id": 86,
+    "status": "success",
+    "elapsed_time": 17.22269868850708,
+    "time_to_first_token": 0.027438879013061523,
+    "caption": "describe the image of the baseball team in the picture of the uniform of the player, the bat, the bat, the bat, the bat",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000231747.jpg"
+  },
+  {
+    "request_id": 81,
+    "status": "success",
+    "elapsed_time": 17.24802851676941,
+    "time_to_first_token": 0.026804208755493164,
+    "caption": "describe the image in the picture above the train tracks and the train is moving along the track and the train is moving along the track",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000479030.jpg"
+  },
+  {
+    "request_id": 38,
+    "status": "success",
+    "elapsed_time": 17.5016028881073,
+    "time_to_first_token": 0.02632927894592285,
+    "caption": "describe the image of a man in a tie and a man in a suit and tie, both looking at each other man",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000067315.jpg"
+  },
+  {
+    "request_id": 87,
+    "status": "success",
+    "elapsed_time": 17.218709230422974,
+    "time_to_first_token": 0.027562618255615234,
+    "caption": "describe the image in the picture below the people eating pizzas in the picture below the people eating pizzas in the picture below the people eating",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000208363.jpg"
+  },
+  {
+    "request_id": 88,
+    "status": "success",
+    "elapsed_time": 19.565582036972046,
+    "time_to_first_token": 0.03332686424255371,
+    "caption": "describe the image in the picture to see the zebras in the picture and the zebras in the picture in the picture",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000320632.jpg"
+  },
+  {
+    "request_id": 89,
+    "status": "success",
+    "elapsed_time": 19.561307191848755,
+    "time_to_first_token": 0.028191089630126953,
+    "caption": "describe the image of a baseball game in action, with the batters in the air and the batters in the air",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000002153.jpg"
+  },
+  {
+    "request_id": 90,
+    "status": "success",
+    "elapsed_time": 19.55637550354004,
+    "time_to_first_token": 0.0282289981842041,
+    "caption": "describe the image in the picture below the tree and the parking meter in the picture below the tree and the parking meter in the picture below the",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000412531.jpg"
+  },
+  {
+    "request_id": 85,
+    "status": "success",
+    "elapsed_time": 19.57988667488098,
+    "time_to_first_token": 0.02821493148803711,
+    "caption": "describe the image in the picture below the water level, and the water level is clear, and the water level is clear",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000082821.jpg"
+  },
+  {
+    "request_id": 24,
+    "status": "success",
+    "elapsed_time": 19.920870780944824,
+    "time_to_first_token": 0.026780128479003906,
+    "caption": "describe the image of a lemon on the branch of a tree, and the fruit is ripe and ready to be eaten",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000386277.jpg"
+  },
+  {
+    "request_id": 93,
+    "status": "success",
+    "elapsed_time": 19.543127059936523,
+    "time_to_first_token": 0.027984619140625,
+    "caption": "describe the image in the picture below the train tracks and the train tracks are empty and empty, and the train is empty",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000100274.jpg"
+  },
+  {
+    "request_id": 91,
+    "status": "success",
+    "elapsed_time": 19.551896810531616,
+    "time_to_first_token": 0.028083086013793945,
+    "caption": "describe the image of a pizza with a pizza cutter in it ' s hand and a pizza cutter in the other hand",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000340015.jpg"
+  },
+  {
+    "request_id": 92,
+    "status": "success",
+    "elapsed_time": 19.547398567199707,
+    "time_to_first_token": 0.036065101623535156,
+    "caption": "describe the image in the picture below the picture, and the picture below the picture below the picture is of a group of people on a boat",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000203389.jpg"
+  },
+  {
+    "request_id": 95,
+    "status": "success",
+    "elapsed_time": 21.45217752456665,
+    "time_to_first_token": 0.029586315155029297,
+    "caption": "describe the image of a boy holding a pizza box with a pizza in it and a pizza box with a pizza in it",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000323355.jpg"
+  },
+  {
+    "request_id": 2,
+    "status": "success",
+    "elapsed_time": 21.94459080696106,
+    "time_to_first_token": 0.04332590103149414,
+    "caption": "describe the image of two teddy bears, one is white and the other is brown, both are stuffed and one is brown",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000073118.jpg"
+  },
+  {
+    "request_id": 96,
+    "status": "success",
+    "elapsed_time": 21.44800615310669,
+    "time_to_first_token": 0.027542829513549805,
+    "caption": "describe the image in the picture below the picture, and the picture below the picture below the picture, and the picture below the picture below the",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000154358.jpg"
+  },
+  {
+    "request_id": 97,
+    "status": "success",
+    "elapsed_time": 21.443675756454468,
+    "time_to_first_token": 0.027261972427368164,
+    "caption": "describe the image in the picture, not the zebra, but the zebra is a zebra, and the zebra is a zebra",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000325306.jpg"
+  },
+  {
+    "request_id": 98,
+    "status": "success",
+    "elapsed_time": 21.439829349517822,
+    "time_to_first_token": 0.03386998176574707,
+    "caption": "describe the image of a stop sign in the picture of a stop sign in the picture of a stop sign in the picture",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000283038.jpg"
+  },
+  {
+    "request_id": 99,
+    "status": "success",
+    "elapsed_time": 21.43590521812439,
+    "time_to_first_token": 0.02886199951171875,
+    "caption": "describe the image of a clock on the side of the street in a city setting with a blue sky and white clouds",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000427055.jpg"
+  },
+  {
+    "request_id": 94,
+    "status": "success",
+    "elapsed_time": 21.457020044326782,
+    "time_to_first_token": 0.02776336669921875,
+    "caption": "describe the image of a zebra in the picture of a zebra in the picture of a zebra in the picture is of a zebra",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000091921.jpg"
+  },
+  {
+    "request_id": 100,
+    "status": "success",
+    "elapsed_time": 22.31038212776184,
+    "time_to_first_token": 0.029395341873168945,
+    "caption": "describe the image in the background of the photo, not the actual, but the photo is not clear, but the photo is clear",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000473219.jpg"
+  },
+  {
+    "request_id": 102,
+    "status": "success",
+    "elapsed_time": 22.301408529281616,
+    "time_to_first_token": 0.028794288635253906,
+    "caption": "describe the image in the picture below the woman in the picture below the woman in the picture below the woman in the picture below the woman in",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000370677.jpg"
+  },
+  {
+    "request_id": 39,
+    "status": "success",
+    "elapsed_time": 22.645642042160034,
+    "time_to_first_token": 0.027588605880737305,
+    "caption": "describe the image of a park with a flag flying in the sky and a park bench with a flag in the fore",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000374545.jpg"
+  },
+  {
+    "request_id": 104,
+    "status": "success",
+    "elapsed_time": 25.401715993881226,
+    "time_to_first_token": 0.028658628463745117,
+    "caption": "describe the image on the wall behind the desk and the computer on the desk is a lego figure of the character from the movie",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000246308.jpg"
+  },
+  {
+    "request_id": 105,
+    "status": "success",
+    "elapsed_time": 25.397971391677856,
+    "time_to_first_token": 0.026434659957885742,
+    "caption": "describe the image of a lego keyboard and a lego mini figure of a lego man with a lego head on the keyboard",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000541664.jpg"
+  },
+  {
+    "request_id": 106,
+    "status": "success",
+    "elapsed_time": 25.39398765563965,
+    "time_to_first_token": 0.027218341827392578,
+    "caption": "describe the image in the picture below the bench and the beach in the background is a cloudy day at the bench is empty",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000282046.jpg"
+  },
+  {
+    "request_id": 107,
+    "status": "success",
+    "elapsed_time": 25.38795781135559,
+    "time_to_first_token": 0.026859045028686523,
+    "caption": "describe the image in the picture below the picture, and the image below the picture below the picture, and the image below the picture below the",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000380706.jpg"
+  },
+  {
+    "request_id": 103,
+    "status": "success",
+    "elapsed_time": 25.40828824043274,
+    "time_to_first_token": 0.02746725082397461,
+    "caption": "describe the image of a bear in the forest, and the picture of a bear in the forest, and the picture of a bear in the",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000573391.jpg"
+  },
+  {
+    "request_id": 25,
+    "status": "success",
+    "elapsed_time": 25.82156205177307,
+    "time_to_first_token": 0.02669835090637207,
+    "caption": "describe the image in the picture below the train tracks and the train tracks are empty and empty, and the train is waiting",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000155443.jpg"
+  },
+  {
+    "request_id": 108,
+    "status": "success",
+    "elapsed_time": 25.380861520767212,
+    "time_to_first_token": 0.03201580047607422,
+    "caption": "describe the image of a cat in the window sie is a cat in the window sie is a cat in the window sie is",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000155291.jpg"
+  },
+  {
+    "request_id": 101,
+    "status": "success",
+    "elapsed_time": 25.41614842414856,
+    "time_to_first_token": 0.028162479400634766,
+    "caption": "describe the image of elephants in the picture below it is a photo of elephants drinking water from a stream in the jungle",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000383921.jpg"
+  },
+  {
+    "request_id": 110,
+    "status": "success",
+    "elapsed_time": 25.371896266937256,
+    "time_to_first_token": 0.028012752532958984,
+    "caption": "describe the image in the picture below the boat is a man in a canoe with a dog in it ' s back",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000472298.jpg"
+  },
+  {
+    "request_id": 111,
+    "status": "success",
+    "elapsed_time": 25.367137908935547,
+    "time_to_first_token": 0.02837681770324707,
+    "caption": "describe the image of a group of people in a room with a computer and a laptop on a table with a woman standing next to the computer",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000275749.jpg"
+  },
+  {
+    "request_id": 109,
+    "status": "success",
+    "elapsed_time": 25.376524925231934,
+    "time_to_first_token": 0.028444290161132812,
+    "caption": "describe the image of a hot dog and french fries with a drink in the picture is a hot dog and french fries with a french fries",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000322574.jpg"
+  },
+  {
+    "request_id": 112,
+    "status": "success",
+    "elapsed_time": 30.917354822158813,
+    "time_to_first_token": 0.030823707580566406,
+    "caption": "describe the image in the picture below the photo, and the sky is blue and white, and the sky is blue and white",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000037751.jpg"
+  },
+  {
+    "request_id": 3,
+    "status": "success",
+    "elapsed_time": 31.483137369155884,
+    "time_to_first_token": 0.03228926658630371,
+    "caption": "describe the image in the picture below the bench and the tree in the background is blossoming trees in blooming in the park",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000349184.jpg"
+  },
+  {
+    "request_id": 113,
+    "status": "success",
+    "elapsed_time": 30.913049697875977,
+    "time_to_first_token": 0.02744746208190918,
+    "caption": "describe the image of a dont with a white icing on top of the dont with a white icing on top",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000537241.jpg"
+  },
+  {
+    "request_id": 114,
+    "status": "success",
+    "elapsed_time": 30.908429622650146,
+    "time_to_first_token": 0.027864933013916016,
+    "caption": "describe the image in the picture below the man in the picture below the man in the picture below the man in the picture below the man in",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000025393.jpg"
+  },
+  {
+    "request_id": 115,
+    "status": "success",
+    "elapsed_time": 30.90339732170105,
+    "time_to_first_token": 0.026988506317138672,
+    "caption": "describe the image in the picture below to see the food in the picture below to see the food in the picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000104612.jpg"
+  },
+  {
+    "request_id": 116,
+    "status": "success",
+    "elapsed_time": 30.898737907409668,
+    "time_to_first_token": 0.032011985778808594,
+    "caption": "describe the image of a banana on a plate with a note on it, and a person in the background behind it",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000271471.jpg"
+  },
+  {
+    "request_id": 118,
+    "status": "success",
+    "elapsed_time": 30.890066385269165,
+    "time_to_first_token": 0.043797969818115234,
+    "caption": "describe the image in black and white, and the bear is in color, and the bear is in color, and the bear is in color",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000460927.jpg"
+  },
+  {
+    "request_id": 121,
+    "status": "success",
+    "elapsed_time": 32.342992544174194,
+    "time_to_first_token": 0.044243812561035156,
+    "caption": "describe the image of a pink toilet with a white towel on the seat and a pink toilet seat on the floor with a white towel on the",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000332455.jpg"
+  },
+  {
+    "request_id": 120,
+    "status": "success",
+    "elapsed_time": 32.34752297401428,
+    "time_to_first_token": 0.03542184829711914,
+    "caption": "describe the image in the picture below, or in the picture below, or in the picture below, or in the picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000244411.jpg"
+  },
+  {
+    "request_id": 119,
+    "status": "success",
+    "elapsed_time": 32.3518443107605,
+    "time_to_first_token": 0.02823162078857422,
+    "caption": "describe the image in the picture below the dog is surfing in the ocean, and the dog is swimming in the water",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000490171.jpg"
+  },
+  {
+    "request_id": 40,
+    "status": "success",
+    "elapsed_time": 32.773919343948364,
+    "time_to_first_token": 0.029265165328979492,
+    "caption": "describe the image is a dog on the beach with a hat on it ' s head and a hat on its back",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000511398.jpg"
+  },
+  {
+    "request_id": 117,
+    "status": "success",
+    "elapsed_time": 32.36049175262451,
+    "time_to_first_token": 0.028726816177368164,
+    "caption": "describe the image in the picture below, and the picture below, and the picture below, and the picture below, and the picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000410934.jpg"
+  },
+  {
+    "request_id": 122,
+    "status": "success",
+    "elapsed_time": 35.31957817077637,
+    "time_to_first_token": 0.027665138244628906,
+    "caption": "describe the image in the picture to be captivated by the train ' s name and the train ' s name,",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000488664.jpg"
+  },
+  {
+    "request_id": 123,
+    "status": "success",
+    "elapsed_time": 35.3159453868866,
+    "time_to_first_token": 0.028735637664794922,
+    "caption": "describe the image of a young boy playing a video game with his father in the living room of a home in the country",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000129492.jpg"
+  },
+  {
+    "request_id": 124,
+    "status": "success",
+    "elapsed_time": 35.311493158340454,
+    "time_to_first_token": 0.02750682830810547,
+    "caption": "describe the image of a tennis player in action on the court with his racket and his racket racket is in the air",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000444142.jpg"
+  },
+  {
+    "request_id": 125,
+    "status": "success",
+    "elapsed_time": 35.30741572380066,
+    "time_to_first_token": 0.03031134605407715,
+    "caption": "describe the image in the picture below the bananas are for sale at the market in the picture is taken from the street",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000376307.jpg"
+  },
+  {
+    "request_id": 126,
+    "status": "success",
+    "elapsed_time": 35.30317211151123,
+    "time_to_first_token": 0.027851581573486328,
+    "caption": "describe the image in black and white, and the image in black and white, is a black and white photo of a man sitting at a",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000482436.jpg"
+  },
+  {
+    "request_id": 127,
+    "status": "success",
+    "elapsed_time": 35.298858642578125,
+    "time_to_first_token": 0.029708147048950195,
+    "caption": "describe the image is a woman in a red dress and a man in a white shirt and black shorts and a man in a white shirt",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000304180.jpg"
+  },
+  {
+    "request_id": 128,
+    "status": "success",
+    "elapsed_time": 35.294294118881226,
+    "time_to_first_token": 0.028205394744873047,
+    "caption": "describe the image in the picture below the plane ' s name and the name of the plane is the name of the plane",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000396903.jpg"
+  },
+  {
+    "request_id": 132,
+    "status": "success",
+    "elapsed_time": 35.275484800338745,
+    "time_to_first_token": 0.028736114501953125,
+    "caption": "describe the image of a man eating pizza at a table in an office setting with a computer and a plate of pizza",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000425361.jpg"
+  },
+  {
+    "request_id": 130,
+    "status": "success",
+    "elapsed_time": 35.284448862075806,
+    "time_to_first_token": 0.03577065467834473,
+    "caption": "describe the image of a dog on the computer screen and the person ' s hand touching the keyboard button on the keyboard",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000427034.jpg"
+  },
+  {
+    "request_id": 26,
+    "status": "success",
+    "elapsed_time": 35.8203067779541,
+    "time_to_first_token": 0.02847576141357422,
+    "caption": "describe the image in the picture below the skateboarder ' s name and the skateboarder ' s name,",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000031093.jpg"
+  },
+  {
+    "request_id": 131,
+    "status": "success",
+    "elapsed_time": 35.279963970184326,
+    "time_to_first_token": 0.02978801727294922,
+    "caption": "describe the image in the picture above the truck is a blue truck with a white stripe on the side of the road",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000033109.jpg"
+  },
+  {
+    "request_id": 133,
+    "status": "success",
+    "elapsed_time": 37.533424615859985,
+    "time_to_first_token": 0.027970552444458008,
+    "caption": "describe the image of a toilet with a toilet seat on it ' s back and a toilet seat on the front of the toilet",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000551304.jpg"
+  },
+  {
+    "request_id": 134,
+    "status": "success",
+    "elapsed_time": 37.52972674369812,
+    "time_to_first_token": 0.028078794479370117,
+    "caption": "describe the image of a hotel or a hotel with a sign on it ' s side and people walking around it on the sidewalk",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000266981.jpg"
+  },
+  {
+    "request_id": 4,
+    "status": "success",
+    "elapsed_time": 38.187880754470825,
+    "time_to_first_token": 0.03145170211791992,
+    "caption": "describe the image of a city at night time, with a view of the water and buildings in the background, and a city lit up at night sky",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000466416.jpg"
+  },
+  {
+    "request_id": 135,
+    "status": "success",
+    "elapsed_time": 37.52583384513855,
+    "time_to_first_token": 0.02802562713623047,
+    "caption": "describe the image in the picture below the ski boarder ' s name and the ski poles are purple and orange, and the ski boarder ' s name is purple",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000308793.jpg"
+  },
+  {
+    "request_id": 129,
+    "status": "success",
+    "elapsed_time": 37.55187749862671,
+    "time_to_first_token": 0.027830839157104492,
+    "caption": "describe the image of a cow and a dog in a field of grass and dirt, and a dog is looking at the cow",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000329447.jpg"
+  },
+  {
+    "request_id": 137,
+    "status": "success",
+    "elapsed_time": 37.52080678939819,
+    "time_to_first_token": 0.028717041015625,
+    "caption": "describe the image of a cat sitting in the grass and looking at the camera with a serious expression on his face and eyes",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000304560.jpg"
+  },
+  {
+    "request_id": 138,
+    "status": "success",
+    "elapsed_time": 37.51697397232056,
+    "time_to_first_token": 0.02731156349182129,
+    "caption": "describe the image of a man on a street corner with a crosswalk sign in the middle of the street, and a street sign in the",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000385190.jpg"
+  },
+  {
+    "request_id": 139,
+    "status": "success",
+    "elapsed_time": 37.512404680252075,
+    "time_to_first_token": 0.02846503257751465,
+    "caption": "describe the image in the picture below the kids are playing soccer in the field, and the kids are running after the ball",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000447917.jpg"
+  },
+  {
+    "request_id": 140,
+    "status": "success",
+    "elapsed_time": 39.308002948760986,
+    "time_to_first_token": 0.02944636344909668,
+    "caption": "describe the image in the picture below, and the dog is sitting in the chair, with his tongue out, and tongue out",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000367082.jpg"
+  },
+  {
+    "request_id": 41,
+    "status": "success",
+    "elapsed_time": 39.81331396102905,
+    "time_to_first_token": 0.028816699981689453,
+    "caption": "describe the image on the laptop screen and the phone is on the table top, and the laptop is on the table",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000182202.jpg"
+  },
+  {
+    "request_id": 141,
+    "status": "success",
+    "elapsed_time": 39.304356813430786,
+    "time_to_first_token": 0.02999567985534668,
+    "caption": "describe the image in the window of the train car, and the view of the train tracks through the window is amazing",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000458790.jpg"
+  },
+  {
+    "request_id": 142,
+    "status": "success",
+    "elapsed_time": 39.30049443244934,
+    "time_to_first_token": 0.028423309326171875,
+    "caption": "describe the image in the picture below the skiers are wearing skis and ski poles, and ski poles are not",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000470779.jpg"
+  },
+  {
+    "request_id": 143,
+    "status": "success",
+    "elapsed_time": 39.29635524749756,
+    "time_to_first_token": 0.02831101417541504,
+    "caption": "describe the image of a bus on the street with a woman walking by it and a bus on the street with a woman walking by it",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000550349.jpg"
+  },
+  {
+    "request_id": 136,
+    "status": "success",
+    "elapsed_time": 39.32542061805725,
+    "time_to_first_token": 0.028366804122924805,
+    "caption": "describe the image in the picture below the woman sitting on the bench and talking on the phone while the woman is sitting on the bench",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000117197.jpg"
+  },
+  {
+    "request_id": 144,
+    "status": "success",
+    "elapsed_time": 39.29188299179077,
+    "time_to_first_token": 0.027433156967163086,
+    "caption": "describe the image in the picture below, and the image below, and the image below, and below, and below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000460682.jpg"
+  },
+  {
+    "request_id": 145,
+    "status": "success",
+    "elapsed_time": 42.61367917060852,
+    "time_to_first_token": 0.027802228927612305,
+    "caption": "describe the image in black and white or color, or color, of a street sign in a city, or a street",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000502336.jpg"
+  },
+  {
+    "request_id": 146,
+    "status": "success",
+    "elapsed_time": 42.60867404937744,
+    "time_to_first_token": 0.03418612480163574,
+    "caption": "describe the image is color black and white, and the photo is color white and red, and the cake is white",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000146358.jpg"
+  },
+  {
+    "request_id": 147,
+    "status": "success",
+    "elapsed_time": 42.60453748703003,
+    "time_to_first_token": 0.02767801284790039,
+    "caption": "describe the image of a bear sitting on a rock in the water and looking up at the sky and the rocks are in the background",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000513484.jpg"
+  },
+  {
+    "request_id": 148,
+    "status": "success",
+    "elapsed_time": 42.600035667419434,
+    "time_to_first_token": 0.029621362686157227,
+    "caption": "describe the image of a baseball player throwing a ball in a game of baseball on a field with a sign in the background",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000434548.jpg"
+  },
+  {
+    "request_id": 149,
+    "status": "success",
+    "elapsed_time": 42.59637522697449,
+    "time_to_first_token": 0.027979373931884766,
+    "caption": "describe the image in the top right corner of the photo, and the ship is in the middle right corner of the photo",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000111086.jpg"
+  },
+  {
+    "request_id": 150,
+    "status": "success",
+    "elapsed_time": 42.59288692474365,
+    "time_to_first_token": 0.029004812240600586,
+    "caption": "describe the image in the picture to the child ' s name and the laptop is on the bed and the child is sitting on the bed",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000051610.jpg"
+  },
+  {
+    "request_id": 151,
+    "status": "success",
+    "elapsed_time": 42.58916354179382,
+    "time_to_first_token": 0.027260780334472656,
+    "caption": "describe the image on the laptop screen and the picture on the laptop screen and the picture on the laptop screen and the scissors and scissors",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000324715.jpg"
+  },
+  {
+    "request_id": 153,
+    "status": "success",
+    "elapsed_time": 42.58139729499817,
+    "time_to_first_token": 0.028311491012573242,
+    "caption": "describe the image of a clock on the building ' s side, or the clock on the building ' s side,",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000058655.jpg"
+  },
+  {
+    "request_id": 154,
+    "status": "success",
+    "elapsed_time": 42.57686710357666,
+    "time_to_first_token": 0.027359724044799805,
+    "caption": "describe the image on the cake topper of the cake, and the colors of the cake are blue, green, yellow, and orange",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000245651.jpg"
+  },
+  {
+    "request_id": 155,
+    "status": "success",
+    "elapsed_time": 42.57267951965332,
+    "time_to_first_token": 0.027046918869018555,
+    "caption": "describe the image of a meal on the table with a plate of food and a glass of water on the table with a plate of fries",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000018575.jpg"
+  },
+  {
+    "request_id": 152,
+    "status": "success",
+    "elapsed_time": 42.58553910255432,
+    "time_to_first_token": 0.027408838272094727,
+    "caption": "describe the image in black and white, and the woman is sitting on the toilet in the middle of the street, and the woman is sitting",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000365642.jpg"
+  },
+  {
+    "request_id": 27,
+    "status": "success",
+    "elapsed_time": 43.203933000564575,
+    "time_to_first_token": 0.02788829803466797,
+    "caption": "describe the image in the picture below the picture is a polaroidus, or polaroidus, polaroidus, or polaroidus",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000549136.jpg"
+  },
+  {
+    "request_id": 156,
+    "status": "success",
+    "elapsed_time": 45.024595737457275,
+    "time_to_first_token": 0.028481245040893555,
+    "caption": "describe the image in the picture below the umbrella and the umbrella is not clear, but the umbrella is not clear, but",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000215072.jpg"
+  },
+  {
+    "request_id": 158,
+    "status": "success",
+    "elapsed_time": 45.01772212982178,
+    "time_to_first_token": 0.028548717498779297,
+    "caption": "describe the image in the picture below to see the person in the picture below, and the person in the picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000499622.jpg"
+  },
+  {
+    "request_id": 157,
+    "status": "success",
+    "elapsed_time": 45.02134037017822,
+    "time_to_first_token": 0.02905130386352539,
+    "caption": "describe the image in the picture below the vase and the candle holder is in the picture below the vase and candle holder is in the picture",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000376365.jpg"
+  },
+  {
+    "request_id": 159,
+    "status": "success",
+    "elapsed_time": 45.0127215385437,
+    "time_to_first_token": 0.028342247009277344,
+    "caption": "describe the image of a man with a bow tie and a suit jacket on, and a smile on his face,",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000167067.jpg"
+  },
+  {
+    "request_id": 160,
+    "status": "success",
+    "elapsed_time": 45.00913095474243,
+    "time_to_first_token": 0.027838468551635742,
+    "caption": "describe the image of a man falling off his skateboard in the street of a city street scene, with a man in the background",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000463690.jpg"
+  },
+  {
+    "request_id": 5,
+    "status": "success",
+    "elapsed_time": 45.76582908630371,
+    "time_to_first_token": 0.02945399284362793,
+    "caption": "describe the image of a church tower with a clock on it ' s side and a blue sky with white clouds in the background",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000376856.jpg"
+  },
+  {
+    "request_id": 161,
+    "status": "success",
+    "elapsed_time": 45.005579471588135,
+    "time_to_first_token": 0.027545928955078125,
+    "caption": "describe the image in the picture below the skiers picture in the picture below the skiers picture below the skiers picture below the skiers picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000342397.jpg"
+  },
+  {
+    "request_id": 162,
+    "status": "success",
+    "elapsed_time": 45.0016565322876,
+    "time_to_first_token": 0.02912449836730957,
+    "caption": "describe the image in the picture below the kids are playing baseball in the field and the kids are playing baseball in the field",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000457884.jpg"
+  },
+  {
+    "request_id": 163,
+    "status": "success",
+    "elapsed_time": 44.99766182899475,
+    "time_to_first_token": 0.029996871948242188,
+    "caption": "describe the image on the laptop screen and the picture on the laptop screen and the picture on the laptop screen is a girl",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000119365.jpg"
+  },
+  {
+    "request_id": 164,
+    "status": "success",
+    "elapsed_time": 47.205148458480835,
+    "time_to_first_token": 0.030234813690185547,
+    "caption": "describe the image in the picture below the woman is sitting on a bench with a pigeon nearby bird nearby nearby nearby bird",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000548780.jpg"
+  },
+  {
+    "request_id": 165,
+    "status": "success",
+    "elapsed_time": 47.20173144340515,
+    "time_to_first_token": 0.02984762191772461,
+    "caption": "describe the image of a plane on the runway at night time, with a few lights on the wing and a few lights on the ground",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000096549.jpg"
+  },
+  {
+    "request_id": 166,
+    "status": "success",
+    "elapsed_time": 47.19725775718689,
+    "time_to_first_token": 0.028046846389770508,
+    "caption": "describe the image in the picture below the kitten is hiding under the shoe box and the cat is hiding underneath the shoe box",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000412240.jpg"
+  },
+  {
+    "request_id": 167,
+    "status": "success",
+    "elapsed_time": 47.193323373794556,
+    "time_to_first_token": 0.02900528907775879,
+    "caption": "describe the image in the picture below the train is a train that is pulling passengers to the station and is not moving",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000232538.jpg"
+  },
+  {
+    "request_id": 168,
+    "status": "success",
+    "elapsed_time": 47.18957209587097,
+    "time_to_first_token": 0.028157472610473633,
+    "caption": "describe the image in the picture above the woman ' s face and the plate of food on the table in the picture",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000449312.jpg"
+  },
+  {
+    "request_id": 42,
+    "status": "success",
+    "elapsed_time": 47.80203104019165,
+    "time_to_first_token": 0.027142763137817383,
+    "caption": "describe the image in the picture below the picture is a picture of a man eating a sandwich and a woman sitting in the picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000015335.jpg"
+  },
+  {
+    "request_id": 169,
+    "status": "success",
+    "elapsed_time": 47.185670614242554,
+    "time_to_first_token": 0.02947378158569336,
+    "caption": "describe the image of bears in the picture below, and the image of bears in the picture below, and the image of bears in the picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000471450.jpg"
+  },
+  {
+    "request_id": 170,
+    "status": "success",
+    "elapsed_time": 47.18147015571594,
+    "time_to_first_token": 0.028636932373046875,
+    "caption": "describe the image in the picture below the bus is a bus that is pink and yellow and green and is a bus that is yellow",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000509008.jpg"
+  },
+  {
+    "request_id": 171,
+    "status": "success",
+    "elapsed_time": 50.855719566345215,
+    "time_to_first_token": 0.03504323959350586,
+    "caption": "describe the image in the picture to be captivated by the kid on the skateboarder ' s head and the child on the skateboard",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000087476.jpg"
+  },
+  {
+    "request_id": 172,
+    "status": "success",
+    "elapsed_time": 50.85013270378113,
+    "time_to_first_token": 0.02839493751525879,
+    "caption": "describe the image of a gis in the zoo enclosures of a zoo in the wild life of the gis",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000528862.jpg"
+  },
+  {
+    "request_id": 173,
+    "status": "success",
+    "elapsed_time": 50.84566068649292,
+    "time_to_first_token": 0.028408288955688477,
+    "caption": "describe the image in the picture below, and the person is walking in the rain, and the person is holding an umbrella",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000493772.jpg"
+  },
+  {
+    "request_id": 174,
+    "status": "success",
+    "elapsed_time": 50.83981156349182,
+    "time_to_first_token": 0.027529478073120117,
+    "caption": "describe the image of a person holding a plastic object in their hands, while they are working on a computer and a printer",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000251824.jpg"
+  },
+  {
+    "request_id": 175,
+    "status": "success",
+    "elapsed_time": 50.83555340766907,
+    "time_to_first_token": 0.029369592666625977,
+    "caption": "describe the image in the picture below the man in the picture below the man in the picture below the man in the picture below the man in",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000401244.jpg"
+  },
+  {
+    "request_id": 176,
+    "status": "success",
+    "elapsed_time": 50.83169627189636,
+    "time_to_first_token": 0.02840566635131836,
+    "caption": "describe the image in the picture below the picture, and the picture below the picture below the picture below the picture below the picture below the picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000172547.jpg"
+  },
+  {
+    "request_id": 177,
+    "status": "success",
+    "elapsed_time": 50.82767868041992,
+    "time_to_first_token": 0.029080867767333984,
+    "caption": "describe the image in the picture below the wave and the surfer in the picture below the wave and the surfer in the picture below the wave",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000462728.jpg"
+  },
+  {
+    "request_id": 181,
+    "status": "success",
+    "elapsed_time": 50.81285309791565,
+    "time_to_first_token": 0.026615381240844727,
+    "caption": "describe the image in the picture below the picture in the picture below the picture below the picture below the picture below the picture below the picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000343976.jpg"
+  },
+  {
+    "request_id": 178,
+    "status": "success",
+    "elapsed_time": 50.824167251586914,
+    "time_to_first_token": 0.02794170379638672,
+    "caption": "describe the image of a woman surfing in the ocean waves, and the wave is in the background of the photo,",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000356505.jpg"
+  },
+  {
+    "request_id": 179,
+    "status": "success",
+    "elapsed_time": 50.82052183151245,
+    "time_to_first_token": 0.0305173397064209,
+    "caption": "describe the image on the train car of a graffiti - covered train car, with graffiti - covered graffiti on the side of the train car",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000368456.jpg"
+  },
+  {
+    "request_id": 28,
+    "status": "success",
+    "elapsed_time": 51.54699087142944,
+    "time_to_first_token": 0.028992891311645508,
+    "caption": "describe the image in the sky and the people are flying kites on the beach in the picture is clear blue sky",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000570688.jpg"
+  },
+  {
+    "request_id": 180,
+    "status": "success",
+    "elapsed_time": 50.81680607795715,
+    "time_to_first_token": 0.03098130226135254,
+    "caption": "describe the image of a man with a bald haircut holding a cell phone in his hand and looking at the camera",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000506933.jpg"
+  },
+  {
+    "request_id": 182,
+    "status": "success",
+    "elapsed_time": 50.809107065200806,
+    "time_to_first_token": 0.028150558471679688,
+    "caption": "describe the image in the picture below, and the image below, and the image below, and below, and below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000425702.jpg"
+  },
+  {
+    "request_id": 183,
+    "status": "success",
+    "elapsed_time": 53.9681556224823,
+    "time_to_first_token": 0.02902698516845703,
+    "caption": "describe the image of a fork, fork, and knife on display in a museum case with a glass display case holding a variety of wooden ut",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000075393.jpg"
+  },
+  {
+    "request_id": 184,
+    "status": "success",
+    "elapsed_time": 53.96269083023071,
+    "time_to_first_token": 0.026953697204589844,
+    "caption": "describe the image in the picture to see the power lines in the picture and the trees in the picture to see the power lines in the picture",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000553339.jpg"
+  },
+  {
+    "request_id": 185,
+    "status": "success",
+    "elapsed_time": 53.9579119682312,
+    "time_to_first_token": 0.035498619079589844,
+    "caption": "describe the image in the picture below the refrigerator and the fridge in the picture below the refrigerator and the fridge in the picture below the fridge",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000452793.jpg"
+  },
+  {
+    "request_id": 186,
+    "status": "success",
+    "elapsed_time": 53.952616930007935,
+    "time_to_first_token": 0.03412604331970215,
+    "caption": "describe the image on the computer screen and the monitor screen is on the desk and the chair is on the floor and the computer is on the",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000435003.jpg"
+  },
+  {
+    "request_id": 187,
+    "status": "success",
+    "elapsed_time": 53.948089361190796,
+    "time_to_first_token": 0.027399778366088867,
+    "caption": "describe the image of a parking meter and a parking meter on a sidewalk in front of a building with a red wall",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000203488.jpg"
+  },
+  {
+    "request_id": 188,
+    "status": "success",
+    "elapsed_time": 53.944143772125244,
+    "time_to_first_token": 0.028060436248779297,
+    "caption": "describe the image of a plane in the sky or in the ground, it is a plane with a red tail and a white tail",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000404479.jpg"
+  },
+  {
+    "request_id": 189,
+    "status": "success",
+    "elapsed_time": 53.9400315284729,
+    "time_to_first_token": 0.027708053588867188,
+    "caption": "describe the image in the picture below the picture is a photo of a man throwing a frc frc fr frc frc frc fr frc frc frc frc frc frc frc frc",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000572900.jpg"
+  },
+  {
+    "request_id": 190,
+    "status": "success",
+    "elapsed_time": 53.93433880805969,
+    "time_to_first_token": 0.02853226661682129,
+    "caption": "describe the image in the picture below the wave, and the surfer is in the picture below the wave, and the surfer is in the picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000320696.jpg"
+  },
+  {
+    "request_id": 14,
+    "status": "success",
+    "elapsed_time": 54.78061556816101,
+    "time_to_first_token": 0.027515649795532227,
+    "caption": "describe the image of a tennis player in action on the court with a tennis ball in her hand and a tennis ball in her hand",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000074092.jpg"
+  },
+  {
+    "request_id": 191,
+    "status": "success",
+    "elapsed_time": 53.930296897888184,
+    "time_to_first_token": 0.03348040580749512,
+    "caption": "describe the image of a child in a classroom setting with a teacher and a child in a classroom setting with a teacher",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000123633.jpg"
+  },
+  {
+    "request_id": 192,
+    "status": "success",
+    "elapsed_time": 56.3180730342865,
+    "time_to_first_token": 0.02782893180847168,
+    "caption": "describe the image in the picture below the woman riding a bike with a backpack on the back of her back of the bike",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000549390.jpg"
+  },
+  {
+    "request_id": 193,
+    "status": "success",
+    "elapsed_time": 56.313705921173096,
+    "time_to_first_token": 0.027806758880615234,
+    "caption": "describe the image of an elephant and a man with glasses on his head and an elephant in the background with a man in the middle",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000006894.jpg"
+  },
+  {
+    "request_id": 194,
+    "status": "success",
+    "elapsed_time": 56.309659242630005,
+    "time_to_first_token": 0.02911686897277832,
+    "caption": "describe the image in the picture below the boat is a boat with people on it and a boat with a canopy on the boat",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000248334.jpg"
+  },
+  {
+    "request_id": 6,
+    "status": "success",
+    "elapsed_time": 57.20838165283203,
+    "time_to_first_token": 0.028368473052978516,
+    "caption": "describe the image in the picture below the picture, and the picture below the picture below the picture below the picture below the picture below the picture below",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000177934.jpg"
+  },
+  {
+    "request_id": 195,
+    "status": "success",
+    "elapsed_time": 56.30544924736023,
+    "time_to_first_token": 0.03135561943054199,
+    "caption": "describe the image of a clock in the window of a building with a sky background and a clock in the window is a reflection",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000331317.jpg"
+  },
+  {
+    "request_id": 196,
+    "status": "success",
+    "elapsed_time": 56.30130982398987,
+    "time_to_first_token": 0.0272066593170166,
+    "caption": "describe the image on the building ' s side, and the name of the building is on the sign on the building",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000528977.jpg"
+  },
+  {
+    "request_id": 197,
+    "status": "success",
+    "elapsed_time": 56.29475402832031,
+    "time_to_first_token": 0.029131174087524414,
+    "caption": "describe the image in the picture below the sign and the sign is not visible in the picture below the sign is not visible",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000333697.jpg"
+  },
+  {
+    "request_id": 198,
+    "status": "success",
+    "elapsed_time": 56.2901554107666,
+    "time_to_first_token": 0.028801918029785156,
+    "caption": "describe the image in the picture below the train is moving through the tunnel, and the train is moving through the tunnel",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000290293.jpg"
+  },
+  {
+    "request_id": 199,
+    "status": "success",
+    "elapsed_time": 56.285834312438965,
+    "time_to_first_token": 0.02826070785522461,
+    "caption": "describe the image on the laptop screen and mouse on the mouse pad on the laptop screen and mouse pad on the mouse pad",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000248631.jpg"
+  },
+  {
+    "request_id": 43,
+    "status": "success",
+    "elapsed_time": 57.26678228378296,
+    "time_to_first_token": 0.027665138244628906,
+    "caption": "describe the image of a little girl in bed with a book in her hand and a man in the background with a book",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000455301.jpg"
+  },
+  {
+    "request_id": 29,
+    "status": "success",
+    "elapsed_time": 57.576006174087524,
+    "time_to_first_token": 0.04212069511413574,
+    "caption": "describe the image of a camera and a cell phone on the table with a camera and a cell phone on the table",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000446207.jpg"
+  },
+  {
+    "request_id": 15,
+    "status": "success",
+    "elapsed_time": 57.884138107299805,
+    "time_to_first_token": 0.026886701583862305,
+    "caption": "describe the image of a plane on the tarmacl runway at the airport, with a few other planes in the background",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000098520.jpg"
+  },
+  {
+    "request_id": 7,
+    "status": "success",
+    "elapsed_time": 58.18884825706482,
+    "time_to_first_token": 0.02840256690979004,
+    "caption": "describe the image of a bear in the picture below it is a bear standing on a rock in the picture is a bear",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000361180.jpg"
+  },
+  {
+    "request_id": 44,
+    "status": "success",
+    "elapsed_time": 58.283774852752686,
+    "time_to_first_token": 0.03304767608642578,
+    "caption": "describe the image in black and white or color, it is a black and white photo of a fire hydra in a yard",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000087244.jpg"
+  },
+  {
+    "request_id": 30,
+    "status": "success",
+    "elapsed_time": 58.598443269729614,
+    "time_to_first_token": 0.028156042098999023,
+    "caption": "describe the image in the picture to see the train ' s name and the train ' s name on the train ' s name",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000572555.jpg"
+  },
+  {
+    "request_id": 16,
+    "status": "success",
+    "elapsed_time": 58.968883752822876,
+    "time_to_first_token": 0.028326988220214844,
+    "caption": "describe the image in the picture below the sheep is a black sheep and a white sheep are standing in the picture below the sheep is a black",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000066561.jpg"
+  },
+  {
+    "request_id": 8,
+    "status": "success",
+    "elapsed_time": 59.25537824630737,
+    "time_to_first_token": 0.027757644653320312,
+    "caption": "describe the image in the picture below the image in the picture below the image is a woman in a boat in the water",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000396518.jpg"
+  },
+  {
+    "request_id": 45,
+    "status": "success",
+    "elapsed_time": 59.693586111068726,
+    "time_to_first_token": 0.030133485794067383,
+    "caption": "describe the image in the picture below the umbrellas, and the umbrellas are red and blue, and the umbrellas are blue and white",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000530854.jpg"
+  },
+  {
+    "request_id": 31,
+    "status": "success",
+    "elapsed_time": 59.76088547706604,
+    "time_to_first_token": 0.028693437576293945,
+    "caption": "describe the image in the sky above the people and the clouds above the sky is a blue sky with white clouds and a few white clouds",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000299553.jpg"
+  },
+  {
+    "request_id": 9,
+    "status": "success",
+    "elapsed_time": 61.35076546669006,
+    "time_to_first_token": 0.02792525291442871,
+    "caption": "describe the image in the picture above the sink and mirror in the bathroom area of the house, and the reflection of the sink in the mirror",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000474786.jpg"
+  },
+  {
+    "request_id": 17,
+    "status": "success",
+    "elapsed_time": 61.31469011306763,
+    "time_to_first_token": 0.04285860061645508,
+    "caption": "describe the image of a bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent bent",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000389381.jpg"
+  },
+  {
+    "request_id": 32,
+    "status": "success",
+    "elapsed_time": 61.822171688079834,
+    "time_to_first_token": 0.028346538543701172,
+    "caption": "describe the image of a dog wearing a bow tie on its neck and sitting on a chair in a room with a staircase",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000505573.jpg"
+  },
+  {
+    "request_id": 46,
+    "status": "success",
+    "elapsed_time": 61.754908323287964,
+    "time_to_first_token": 0.028316736221313477,
+    "caption": "describe the image in the picture below the kite is a kite that is flying in the air, and the kite is a kite that is flying",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000039914.jpg"
+  },
+  {
+    "request_id": 18,
+    "status": "success",
+    "elapsed_time": 62.14176416397095,
+    "time_to_first_token": 0.029735088348388672,
+    "caption": "describe the image in the picture below the red boat is a red boat in the water is a white boat in the water",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000410612.jpg"
+  },
+  {
+    "request_id": 10,
+    "status": "success",
+    "elapsed_time": 62.41012787818909,
+    "time_to_first_token": 0.032534122467041016,
+    "caption": "describe the image of a boy brushing his teeth in the bathroom mirror while he takes a picture of himself on his phone",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000507473.jpg"
+  },
+  {
+    "request_id": 33,
+    "status": "success",
+    "elapsed_time": 62.58042049407959,
+    "time_to_first_token": 0.028193235397338867,
+    "caption": "describe the image in the picture to see the bus in the picture and the bus in the picture to see the bus in the picture",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000233727.jpg"
+  },
+  {
+    "request_id": 0,
+    "status": "success",
+    "elapsed_time": 63.028326749801636,
+    "time_to_first_token": 0.02837967872619629,
+    "caption": "describe the image of a bear on a rock wall or wall, or wall, in a picture or a picture, or a picture",
+    "http_status": 200,
+    "image_path": "/mnt/d/custom_tools/vlm_model_serve/bentoml/val2017/val2017/000000235064.jpg"
+  }
+]
