@@ -2,7 +2,7 @@
 
 This repository contains a collection of fundamental CUDA programming examples, designed to illustrate core concepts from basic memory management to more advanced parallel patterns. Each example is a self-contained `.cu` file that can be compiled and run individually.
 
-This project was created with the assistance of the Gemini CLI.
+This project was created with the assistance of the `Gemini CLI`. Thanks for providing a generous amount of context window and providing a great agentic workflow for creating this repository.
 
 ## Table of Contents
 
