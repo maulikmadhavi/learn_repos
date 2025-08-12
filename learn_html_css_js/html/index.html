@@ -139,7 +139,32 @@
             <td> Detection </td>
             <td> Ability to identify the presence of a specific pattern within a given input </td>
         </tr>
-        
-    </table>
+        </table>
+    <br>
+    <hr>
+    <h4> Action Buttons </h4>
+    <a href="https://www.google.com" target="_blank">
+        <button style="font-size: 20px; background-color: lightblue; color: black; border-radius: 13px;"> Go to Google </button>
+    </a>
+
+    <hr>
+    <a href="lyrics.html" target="_blank">
+        <button style="font-size: 20px; background-color: lightcoral; color: white; border-radius: 13px;"> Go to Lyrics Page </button>
+    </a>
+   
+    <hr>
+
+    <h4> sample JS </h4>
+    <button onclick="alert('Hello, World!')">Click Alert!</button>
+
+    <button onclick="doSomething()">Click me</button>
+    <p id="greeting">Hi there!</p>
+    <script>
+        function doSomething(){            
+            document.getElementById("greeting").innerHTML = "Bye bye!";
+            
+        }
+    </script>
+
     </body>
 </html>
