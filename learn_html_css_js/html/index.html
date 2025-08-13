@@ -166,5 +166,73 @@
         }
     </script>
 
+
+    <br>
+    <hr>
+    <!--------- Form -------->
+    <h4> Sample form </h4>
+    <form method="POST" enctype="multipart/form-data">  <!--- multiple parts of file for large file upload-->
+
+        <label for="username">Username:</label>
+        <input type="text" id="username" placeholder="maulik" name="username" minlength="5" maxlength="15">
+        <br><br>
+        <label for="password"> Enter password:</label>
+        <input type="password" id="password" placeholder="Enter password" name="password" minlength="8" maxlength="20">
+        
+        <br></br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" placeholder="maulik@example.com" name="email">
+
+        <br><br>
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" placeholder="123-456-7890" name="phone" pattern="[0-9]{3}-{0-9}[3]-{0-9}[4]">
+        <br><br>
+
+        <label for="dob"> DOB: </label>
+        <input type="date" id="dob">
+
+
+        <br><br>
+        
+        <label for="quantity"> quantity: </label>
+        <input type="number" id="quantity"  min="0" max="99" value="5">
+
+        <br><br>
+        
+        <label for="title">Title:</label>
+        <label for="Mr."> Mr. </label>        
+        <input id="Mr." type="radio" value="Mr." name="title"> 
+        
+        <label for="Ms."> Mr. </label>
+        <input id="Ms." type="radio" value="Ms." name="title">
+        
+        <label for="PhD"> PhD. </label>
+        <input id="PhD" type="radio" value="PhD." name="title">
+        
+
+        <br><br>
+        <label for="payment">Payment:</label>
+        <select id="payment">
+            <option value="Mastercard">Mastercard</option>
+            <option value="Visa">Visa</option>
+            <option value="Giftcard">Giftcard</option>
+        </select>
+        
+        <br><br>
+        <label for="subscribe">subscribe:</label>
+        <input id="subscribe" type="checkbox">
+        <br><br>
+
+        <label for="comment">Comment:</label>
+        <textarea id="comment" rows="5" columns="10" placeholder="Put your comments"></textarea>
+
+        <br><br>
+        <label for="file"> File:</label>
+        <input type="file" id="file" accept="image/png">
+
+        <br><br>
+        <input type="reset" value="Reset Form">
+        <input type="submit" style="border-radius: 10px; background-color: lightgreen;" value="Submit Details">
+    </form>
     </body>
 </html>
