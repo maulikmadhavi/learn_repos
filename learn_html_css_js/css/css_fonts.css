@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(219, 186, 186);
+       font-family: "GitLab Sans", "Gitlab Mono", 'Times New Roman', Times, serif;
+       font-size: 1em;       
+       
+       
+}
+@font-face {
+  font-family: 'GitLab Sans';
+  src: url('../assets/fonts/open-sans-regular.ttf') format('ttf'),
+       url('../assets/fonts/open-sans-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
