@@ -1,0 +1,21 @@
+body{
+    margin : 0;
+}
+.box {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 0px 0px 0px 0px;
+    font-size: 3em;
+    width: 500px;
+    height: 200px;
+    text-align: left;
+    margin: auto;
+}
+#box1{
+    background-color: rgb(165, 120, 42);
+    /* margin-bottom: 30px; */
+    margin: 30px 30px 30px 30px; /*top right bottom left*/
+}
+#box2{
+    background-color: rgb(42, 165, 120);
+    /* margin-bottom: 0px; */
+}
