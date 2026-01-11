@@ -9,3 +9,6 @@ pixi install
 ```
 
 
+# Original Source
+- [Streamlit Components Documentation](https://docs.streamlit.io/library/components)
+- [Hitesh Choudhary's GitHub Repository](https://github.com/hiteshchoudhary/Streamlit-course)
