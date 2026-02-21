@@ -1,0 +1,17 @@
+.box{
+    border: 3px solid;
+    padding: 20px;
+    box-sizing: border-box;
+    height: auto;
+    width: 50%; /* default auto*/
+    float:left; /* not side-by-side due to border pixels     */
+    max-width: 50%;
+    max-height: 30%;
+    overflow:scroll;
+    background-color: rgb(240, 255, 248);
+    text-align: center;
+}
+.container{
+    background-color: rgb(38, 170, 41);
+    height: 100vh;
+}

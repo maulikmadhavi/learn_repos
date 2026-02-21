@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(210, 218, 196);
+    font-size: 30 px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: dashed;
+}
+
+/* p{
+    color: blue;
+}
+#p1{
+    color:brown;
+}
+#p2{
+    color: hsl(253, 96%, 37%);
+}
+#p3{
+    color: hsl(123, 96%, 37%);
+}
+#p4{
+    color:darkmagenta;
+} */
+.odd{
+    color:brown;
+}
+.even{
+    color: rgb(225, 12, 222);
+}

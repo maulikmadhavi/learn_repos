@@ -1,0 +1,25 @@
+#img1{
+    border: 20px solid crimson;
+    float: left;
+    margin-right: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+#img2 {
+    border: 20px solid rgb(80, 220, 20);
+    float: right;
+    margin-right: 20px;
+    padding: 0;
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.5;
+    margin-left: 0px;
+    padding: 0;
+}
+body{
+    border-color: black;
+    border-style: solid;
+    /* Use flow-root to establish a block formatting context and contain floated elements */
+    display: flow-root;
+}

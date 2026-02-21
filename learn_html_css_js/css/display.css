@@ -1,0 +1,16 @@
+div{
+    background-color: red;
+    display: inline;
+    inline-size: 30px;
+    width: 300px;
+    height: 100px;
+    /* align-content:space-around; */
+    /* overflow: scroll; */
+    visibility: inherit;
+}
+span{
+    background-color: magenta;
+    display: inline;
+    width: 300px;
+    height: 100px;
+}

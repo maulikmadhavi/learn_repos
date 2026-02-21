@@ -1,0 +1,13 @@
+h1{    
+    border: 4px ridge rgb(191, 0, 255);
+    border-radius: 15px;
+}
+
+p{
+    border-top: 3px dashed red;
+    border-bottom: 3px dashed cornflowerblue;
+    border-left: 4px solid yellowgreen;
+    border-right: 4px solid magenta;
+    border-radius: 20px;    
+    padding: 10px 10px 10px 10px;  //top, right, bottom, left
+}
