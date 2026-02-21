@@ -1,9 +1,0 @@
-git@github.com:maulikmadhavi/learn_html_css_js.git
-git@github.com:maulikmadhavi/learn_streamlit.git
-git@github.com:maulikmadhavi/learn_pandas.git
-git@github.com:maulikmadhavi/learn_ptl.git
-git@github.com:maulikmadhavi/learn_cuda_programming.git
-git@github.com:maulikmadhavi/learn_Bentoml-samples.git
-git@github.com:maulikmadhavi/learn_sql_cs50.git
-git@github.com:maulikmadhavi/learn_cs50.git
-git@github.com:maulikmadhavi/learn_gradio_chat_engine.git

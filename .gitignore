@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pixi/
+
+# Databases
+*.db
+
+# Compiled binaries
+*_executable
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pixi
+pixi.lock
+
+# MNIST raw data
+**/mnist/
+
+# Logs
+lightning_logs/
