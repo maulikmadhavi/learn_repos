@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp *)",
+      "Bash(echo \"---exit: $?---\")",
+      "PowerShell(claude mcp *)"
+    ]
+  }
+}

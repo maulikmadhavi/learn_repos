@@ -1,0 +1,18 @@
+[workspace]
+authors = ["Maulik Madhavi <maulik.madhavi@gmail.com>"]
+channels = ["conda-forge"]
+name = "mcp_learn"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "==3.12"
+pip = ">=25.3,<26"
+
+[pypi-dependencies]
+mcp = ">=1.25.0, <2"
+fastmcp = ">=2.14.3, <3"
+openai = ">=2.15.0, <3"
+requests = ">=2.32.5, <3"
